@@ -1,4 +1,20 @@
-## Vite-Tailwind Boilerpalte
+## NBA - Highlights
 
 `yarn`
-`yarn dev`
+`yarn add`
+
+### Todo Features
+
+- [x] List NBA Highlight
+- [ ] Fix list alignment
+- [ ] Pagination show only 20 items
+- [ ] Loading if data is not yet return from API
+- [ ]
+
+### Technologies
+
+- Vite
+- Vue3
+- Composition API
+- Vuex 4
+- Tailwind CSS 2

@@ -1,10 +1,10 @@
 import { createStore } from 'vuex'
-import dummies from '../store/modules/dummies'
+import highlights from '../store/modules/highlights'
 
 const store = createStore({
-    modules: {
-        dummies,
-    },
+  modules: {
+    highlights,
+  },
 })
 
 export default store
