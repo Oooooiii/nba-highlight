@@ -9,7 +9,6 @@
 - [ ] Fix list alignment
 - [ ] Pagination show only 20 items
 - [ ] Loading if data is not yet return from API
-- [ ]
 
 ### Technologies
 
